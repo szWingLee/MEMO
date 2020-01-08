@@ -11,3 +11,6 @@
 # c++
 ## c++11
 [新特性](https://blog.csdn.net/whhitxjl/article/details/50703918)
+
+# semi-supervised
+[综述](https://blog.csdn.net/App_12062011/article/details/93314823)
