@@ -4,5 +4,6 @@
 [半监督深度学习小结](https://zhuanlan.zhihu.com/p/33196506)
 
 [NIPS 2018入选论文：对深度半监督学习算法的现实评价](https://zhuanlan.zhihu.com/p/44099857)
+
 [Mean teachers ](https://arxiv.org/abs/1703.01780)
 
