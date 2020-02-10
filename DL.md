@@ -7,4 +7,4 @@
 
 [Mean teachers ](https://arxiv.org/abs/1703.01780)
 # autoencoder
-[surver](https://www.jianshu.com/p/fd8311832c7a)
+[survey](https://www.jianshu.com/p/fd8311832c7a)
