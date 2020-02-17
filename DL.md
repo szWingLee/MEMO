@@ -12,3 +12,7 @@
 
 # GAN
 [到底什么是GAN](https://www.msra.cn/zh-cn/news/features/gan-20170511)
+
+# contrastive learning
+[simCLR](https://arxiv.org/abs/2002.05709)[pdf](https://arxiv.org/pdf/2002.05709.pdf)
+
