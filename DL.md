@@ -7,6 +7,8 @@
 
 [Mean teachers ](https://arxiv.org/abs/1703.01780)
 
+[Deep SSL](https://zhuanlan.zhihu.com/c_138921102)
+
 # autoencoder
 [survey](https://www.jianshu.com/p/fd8311832c7a)
 
