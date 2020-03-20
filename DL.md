@@ -16,3 +16,5 @@
 # contrastive learning
 [simCLR](https://arxiv.org/abs/2002.05709)[ (pdf)](https://arxiv.org/pdf/2002.05709.pdf)
 
+# image registration
+[图形配准指北](https://zhuanlan.zhihu.com/Image-Registration)
