@@ -22,8 +22,8 @@
 [图形配准指北](https://zhuanlan.zhihu.com/Image-Registration)
 
 # SR
-[Image Processing Using Multi-Code GAN Prior] (https://arxiv.org/pdf/1912.07116.pdf)
-[CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/pdf/2003.07761.pdf)
-[Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution](https://arxiv.org/pdf/2003.07018.pdf)
+[Image Processing Using Multi-Code GAN Prior](https://arxiv.org/pdf/1912.07116.pdf)
+[CycleISP- Real Image Restoration via Improved Data Synthesis](https://arxiv.org/pdf/2003.07761.pdf)
+[Closed-loop Matters- Dual Regression Networks for Single Image Super-Resolution](https://arxiv.org/pdf/2003.07018.pdf)
 [Blind Image Super-Resolution with Spatially Variant Degradations](https://dl.acm.org/doi/pdf/10.1145/3355089.3356575)
 [Deep Unfolding Network for Image Super-Resolution] (https://arxiv.org/pdf/2003.10428.pdf)
