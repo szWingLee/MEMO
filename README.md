@@ -19,3 +19,6 @@
 
 # leet code
 [fxxking algorithm](https://github.com/labuladong/fucking-algorithm)
+
+# tensorflow
+[tf.identity](https://blog.csdn.net/qq_23981335/article/details/81361748)
