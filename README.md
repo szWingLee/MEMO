@@ -39,4 +39,6 @@ https://github.com/QiuJueqin/ISP-based-on-responses-prediction-model
 [RViDeNet](https://github.com/cao-cong/RViDeNet)
 
 # ISP pipeline
-[unprocessing](https://github.com/timothybrooks/unprocessing)
+[unprocessing](https://github.com/timothybrooks/unprocessing)    
+[openISP](https://github.com/cruxopen/openISP)    
+[mushfiqulalam-isp](https://github.com/mushfiqulalam/isp)
