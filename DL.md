@@ -35,3 +35,6 @@
 # TensorFlow
 ## tensor
 [tensor and numpy array](https://www.tensorflow.org/tutorials/customization/basics)
+
+# git
+https://www.cnblogs.com/quenwaz/p/18115058
