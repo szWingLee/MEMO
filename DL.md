@@ -38,3 +38,6 @@
 
 # git
 https://www.cnblogs.com/quenwaz/p/18115058
+
+# torch
+.[xformers](https://www.felixsanz.dev/articles/compatibility-between-pytorch-cuda-and-xformers-versions)
